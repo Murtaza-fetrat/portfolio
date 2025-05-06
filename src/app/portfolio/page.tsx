@@ -10,7 +10,7 @@ const works = [
 - Real-time team or solo participation with scoring and time limits
 - Live control panel for moderators to start/stop quizzes, view results, and enforce rules
 - Clean, interactive UI designed for television viewers and participants`,
-    img: '/images/azmoon.png',
+    img: '/portfolio/images/azmoon.png',
     link: 'https://www.youtube.com/watch?v=kUrJ_Ppjj3s',
   },
   {
@@ -24,7 +24,7 @@ const works = [
 - Clean, interactive UI designed 
 `,
 
-    img: '/images/azi.jpg',
+    img: '/portfolio/images/azi.jpg',
     link: '/',
   },
   {
@@ -35,7 +35,7 @@ const works = [
 - Product stock management with support for multiple depots and cost groups
 - Role-based permissions, multi-user support, and data security
 - Custom reports generation: trial balance, income statement, cash flow, and balance sheet`,
-    img: '/images/app.webp',
+    img: '/portfolio/images/app.webp',
     link: '/',
   },
   {
@@ -46,7 +46,7 @@ const works = [
 - E-commerce platforms with user authentication, shopping cart, and payment gateway integration
 - Business websites optimized for speed, SEO, and scalability
 All solutions follow best practices in clean architecture, modularity, and maintainability.`,
-    img: '/images/app.webp',
+    img: '/portfolio/images/app.webp',
     link: '/',
   },
 ];
