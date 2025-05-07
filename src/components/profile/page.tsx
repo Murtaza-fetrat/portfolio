@@ -120,7 +120,7 @@ function ProfileContainer() {
       </div>
       <a
         href={`${BASE_PATH}/CV-2025.pdf`}
-        download="CV-2025.pdf"
+        download="CV.pdf"
         target="_blank"
       >
         <div className="bg-gradient-to-r to-pink-500 from-rose-500  w-48 flex flex-row mb-5 justify-center items-center rounded-2xl p-2 mt-8 cursor-pointer ">
