@@ -11,7 +11,7 @@ import Image from 'next/image';
 import {FaGithub} from 'react-icons/fa6';
 
 function ProfileContainer() {
-  const BASE_PATH = process.env.NEXT_PUBLIC_URL_IMAGE || '';
+ // const BASE_PATH = process.env.NEXT_PUBLIC_URL_IMAGE || '';
   return (
     <div className="flex flex-col bg-white m-5 mt-10 lg:mt-40 rounded-[18px] justify-center items-center p-5 lg:justify-start dark:bg-gray-800">
       <div className=" mt-11 lg:mt-0 lg:absolute lg:top-20 mb-7 w-[14rem] h-[14rem] rounded-lg md:w-[16rem] md:h-[16rem] lg:w-[10rem] lg:h-[10rem] ">
