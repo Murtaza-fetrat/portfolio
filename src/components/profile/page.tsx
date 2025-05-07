@@ -119,7 +119,7 @@ function ProfileContainer() {
         </div>
       </div>
       <a
-        href={`${BASE_PATH}/CV-2025.pdf`}
+        href='/CV-2025.pdf'
         download="CV.pdf"
         target="_blank"
       >
